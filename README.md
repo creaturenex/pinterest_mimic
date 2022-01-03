@@ -1,5 +1,9 @@
 # README
 
+This README is meant to reinforce rails principles by building a Pinterest Clone
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
